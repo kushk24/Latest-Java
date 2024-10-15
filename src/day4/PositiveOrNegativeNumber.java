@@ -20,6 +20,9 @@ public class PositiveOrNegativeNumber {
 		else
 		{
 			System.out.println("Zero");
+			
+			
+			
 	}
 
 }}
